@@ -94,7 +94,8 @@ function drawRegionsMap() {
         ['Cambodia'],	// カンボジア
         ['India'],		// インド
         ['Myanmar'],	// ミャンマー
-        ['Malawi']		// マラウイ
+        ['Malawi'],		// マラウイ
+        ['KR']		    // 韓国	(なぜか"ISO-3166-1"表記では表示されない)
     ]);
 
     // 表示オプション
